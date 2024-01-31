@@ -19,10 +19,10 @@ const Layout = () => {
           </ul>
         </nav>
       </header>
-      <main className="mt-16">
+      <main className="mt-16 p-16 w-3/4 mx-auto">
         <Outlet />
       </main>
-      {/* Add footer fach nsaliw */}
+      {/* Add footer wehn finished */}
       {/* <footer>Footer</footer> */}
     </>
   );

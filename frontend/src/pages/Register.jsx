@@ -2,7 +2,8 @@ import React from 'react'
 import { axiosClient } from "../api/axios";
 
 // Use async arrowed function to make API calls
-// const axios = await axiosClient.post('/register', data)
+// const csrf = await axiosClient.get('/sanctum/csrf-cookie')
+// const data = await axiosClient.post('/register', values)
 
 
 const Register = () => {
