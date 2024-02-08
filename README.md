@@ -2,15 +2,16 @@
 
 XXXXXXX is a collaborative project developed by students of the DEVOWFS201 Group (2022-2024 Promotion) from ISTA El Hank and supervised by [bahbouhi lien] and lead by [lien ana] & [malak lien].
 By working together on this innovative project, our team aims to:
-* Enhance our technical proficiency in software development, database management, and user interface design.
-* Gain valuable real-world experience in project management, collaboration, and problem-solving.
-* Showcase our creativity, innovation, and teamwork abilities to potential employers and industry professionals.
-* Develop a portfolio of high-quality projects that demonstrate our capabilities and passion for technology.
-* Create a platform that not only revolutionizes the job search process but also serves as a springboard for our future careers.
+
+- Enhance our technical proficiency in software development, database management, and user interface design.
+- Gain valuable real-world experience in project management, collaboration, and problem-solving.
+- Showcase our creativity, innovation, and teamwork abilities to potential employers and industry professionals.
+- Develop a portfolio of high-quality projects that demonstrate our capabilities and passion for technology.
+- Create a platform that not only revolutionizes the job search process but also serves as a springboard for our future careers.
 
 ## About
 
-A revolutionary recruitment platform that transforms the traditional job search process by empowering recruiters to proactively search for and connect with qualified job seekers. 
+A revolutionary recruitment platform that transforms the traditional job search process by empowering recruiters to proactively search for and connect with qualified job seekers.
 Unlike conventional job boards where the onus is on job seekers to apply for positions, JobRecruit flips the paradigm, allowing recruiters to search for candidates based on their specific requirements and directly initiate the recruitment process.
 
 ## Stack Overview
@@ -21,20 +22,18 @@ Unlike conventional job boards where the onus is on job seekers to apply for pos
   <img src="https://i.ibb.co/BqG9srm/pngwing-com.png" alt="MongoDB" height="25%" width="25%">
 </p>
 
-* Backend Framework: Laravel
-* Frontend Framework: React.js
-* Styling: Tailwind CSS
-* Database: MySQL
-* Version Control: Git
-* API Integration: BigBlueButton API
-* Development Tools: Composer, npm
-* Deployment: Docker ( not sure )
+- Backend Framework: Laravel
+- Frontend Framework: React.js
+- Styling: Tailwind CSS
+- Database: MySQL
+- Version Control: Git
+- API Integration: BigBlueButton API
+- Development Tools: Composer, npm
+- Deployment: Docker ( not sure )
 
 ## Figma Design
 
 Explore the design mockup we got inspired from and wireframes of the platform on Figma:
-
-
 
 ## Features
 
@@ -65,8 +64,7 @@ We are immensely grateful for your collaboration, support, and enthusiasm throug
 
 Thank you for your unwavering commitment to excellence and for being an integral part of our team. Your contributions have not gone unnoticed, and we look forward to continued collaboration and success in the future.
 
-List dial collaborators... 
-
+List dial collaborators...
 
 ## Security Vulnerabilities and Issues
 
