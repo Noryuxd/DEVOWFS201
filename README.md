@@ -18,8 +18,8 @@ Unlike conventional job boards where the onus is on job seekers to apply for pos
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="20%" width="20%">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="22%" width="22%">
   <img src="https://i.ibb.co/crCJgTy/Tailwind-CSS.png" alt="Tailwind CSS" height="30%" width="30%">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="22%" width="22%">
 </p>
 
 - Backend Framework: Laravel
