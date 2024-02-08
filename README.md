@@ -1,5 +1,12 @@
-# DEVOWFS201
+# Smiya dial projet
 
+XXXXXXX is a collaborative project developed by students of the DEVOWFS201 Group (2022-2024 Promotion) from ISTA El Hank and supervised by [bahbouhi lien] and lead by [lien ana] & [malak lien].
+By working together on this innovative project, our team aims to:
+* Enhance our technical proficiency in software development, database management, and user interface design.
+* Gain valuable real-world experience in project management, collaboration, and problem-solving.
+* Showcase our creativity, innovation, and teamwork abilities to potential employers and industry professionals.
+* Develop a portfolio of high-quality projects that demonstrate our capabilities and passion for technology.
+* Create a platform that not only revolutionizes the job search process but also serves as a springboard for our future careers.
 
 ## About
 
@@ -15,6 +22,12 @@ Version Control: Git
 API Integration: BigBlueButton API
 Development Tools: Composer, npm
 Deployment: Docker ( not sure )
+
+## Figma Design ()
+
+Explore the design mockup we got inspired from and wireframes of the platform on Figma:
+
+
 
 ## Features
 
