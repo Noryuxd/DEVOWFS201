@@ -1,13 +1,20 @@
-# Project Name
+# DEVOWFS201
 
-[![Build Status](https://github.com/username/repo/workflows/CI/badge.svg)](https://github.com/username/repo/actions)
-[![Total Downloads](https://img.shields.io/packagist/dt/username/repo)](https://packagist.org/packages/username/repo)
-[![Latest Stable Version](https://img.shields.io/packagist/v/username/repo)](https://packagist.org/packages/username/repo)
-[![License](https://img.shields.io/packagist/l/username/repo)](https://opensource.org/licenses/MIT)
 
 ## About
 
-Briefly describe the project and its purpose.
+A revolutionary recruitment platform that transforms the traditional job search process by empowering recruiters to proactively search for and connect with qualified job seekers. Unlike conventional job boards where the onus is on job seekers to apply for positions, JobRecruit flips the paradigm, allowing recruiters to search for candidates based on their specific requirements and directly initiate the recruitment process.
+
+## Stack Overview
+
+Backend Framework: Laravel
+Frontend Framework: React.js
+Styling: Tailwind CSS
+Database: MySQL
+Version Control: Git
+API Integration: BigBlueButton API
+Development Tools: Composer, npm
+Deployment: Docker ( not sure )
 
 ## Features
 
