@@ -17,10 +17,9 @@ Unlike conventional job boards where the onus is on job seekers to apply for pos
 ## Stack Overview
 
 <p align="center">
-  <img src="https://i.ibb.co/BzzZTBz/Next-js.png" alt="Next.js" height="30%" width="30%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="30%" width="30%">
-  <img src="https://i.ibb.co/crCJgTy/Tailwind-CSS.png" alt="Tailwind CSS" height="25%" width="25%">
-  <img src="https://i.ibb.co/BqG9srm/pngwing-com.png" alt="MongoDB" height="25%" width="25%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="20%" width="20%">
+  <img src="https://i.ibb.co/crCJgTy/Tailwind-CSS.png" alt="Tailwind CSS" height="30%" width="30%">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="22%" width="22%">
 </p>
 
 - Backend Framework: Laravel
@@ -34,7 +33,7 @@ Unlike conventional job boards where the onus is on job seekers to apply for pos
 
 ## Figma Design
 
-Explore the design mockup we got inspired from and wireframes of the platform on Figma:
+Explore the design mockup we got inspired from and wireframes of the platform [here](https://www.figma.com/file/suXiPra5rcAMnrJlbg4Udd/JobHuntly---Job-Hunting-Website-(Community)?type=design&node-id=1%3A5262&mode=design&t=kNPTW3sDZpT02QWz-1)
 
 ## Features
 
