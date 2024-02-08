@@ -1,4 +1,4 @@
-# Smiya dial projet
+<h1 align="center">Smiya dial projet</h1>
 
 XXXXXXX is a collaborative project developed by students of the DEVOWFS201 Group (2022-2024 Promotion) from ISTA El Hank and supervised by [bahbouhi lien] and lead by [lien ana] & [malak lien].
 By working together on this innovative project, our team aims to:
@@ -10,20 +10,27 @@ By working together on this innovative project, our team aims to:
 
 ## About
 
-A revolutionary recruitment platform that transforms the traditional job search process by empowering recruiters to proactively search for and connect with qualified job seekers. Unlike conventional job boards where the onus is on job seekers to apply for positions, JobRecruit flips the paradigm, allowing recruiters to search for candidates based on their specific requirements and directly initiate the recruitment process.
+A revolutionary recruitment platform that transforms the traditional job search process by empowering recruiters to proactively search for and connect with qualified job seekers. 
+Unlike conventional job boards where the onus is on job seekers to apply for positions, JobRecruit flips the paradigm, allowing recruiters to search for candidates based on their specific requirements and directly initiate the recruitment process.
 
 ## Stack Overview
 
-Backend Framework: Laravel
-Frontend Framework: React.js
-Styling: Tailwind CSS
-Database: MySQL
-Version Control: Git
-API Integration: BigBlueButton API
-Development Tools: Composer, npm
-Deployment: Docker ( not sure )
+<p align="center">
+  <img src="https://i.ibb.co/BzzZTBz/Next-js.png" alt="Next.js" height="30%" width="30%">
+  <img src="https://i.ibb.co/crCJgTy/Tailwind-CSS.png" alt="Tailwind CSS" height="25%" width="25%">
+  <img src="https://i.ibb.co/BqG9srm/pngwing-com.png" alt="MongoDB" height="25%" width="25%">
+</p>
 
-## Figma Design ()
+* Backend Framework: Laravel
+* Frontend Framework: React.js
+* Styling: Tailwind CSS
+* Database: MySQL
+* Version Control: Git
+* API Integration: BigBlueButton API
+* Development Tools: Composer, npm
+* Deployment: Docker ( not sure )
+
+## Figma Design
 
 Explore the design mockup we got inspired from and wireframes of the platform on Figma:
 
@@ -52,17 +59,18 @@ Explain how to use the project and provide examples if necessary.
 
 Soon...
 
-## Contributing
+## Collaborators
 
-Thank you for considering contributing to the project! Please review the [contribution guidelines](CONTRIBUTING.md) before making any pull requests.
+We are immensely grateful for your collaboration, support, and enthusiasm throughout this journey. Together, we have overcome challenges, celebrated successes, and created something truly remarkable.
 
-## Code of Conduct
+Thank you for your unwavering commitment to excellence and for being an integral part of our team. Your contributions have not gone unnoticed, and we look forward to continued collaboration and success in the future.
 
-Please review and abide by the [code of conduct](CODE_OF_CONDUCT.md) to ensure a welcoming community.
+List dial collaborators... 
 
-## Security Vulnerabilities
 
-If you discover any security vulnerabilities, please report them to the project team via [email](mailto:rabiiababsa10@gmail.com). All vulnerabilities will be promptly addressed.
+## Security Vulnerabilities and Issues
+
+If you discover any security vulnerabilities or issue, please report them to the project team via [email](mailto:rabiiababsa10@gmail.com). All vulnerabilities will be promptly addressed.
 
 ## License
 
