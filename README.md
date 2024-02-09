@@ -17,7 +17,6 @@ Unlike conventional job boards where the onus is on job seekers to apply for pos
 ## Stack Overview
 
 <p align="center">
-  <img src="https://i.ibb.co/BzzZTBz/Next-js.png" alt="Next.js" height="30%" width="30%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="30%" width="30%">
   <img src="https://i.ibb.co/crCJgTy/Tailwind-CSS.png" alt="Tailwind CSS" height="25%" width="25%">
   <img src="https://i.ibb.co/BqG9srm/pngwing-com.png" alt="MongoDB" height="25%" width="25%">
