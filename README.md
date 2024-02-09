@@ -29,7 +29,6 @@ Unlike conventional job boards where the onus is on job seekers to apply for pos
 - Version Control: Git
 - API Integration: BigBlueButton API
 - Development Tools: Composer, npm
-- Deployment: Docker ( not sure )
 
 ## Figma Design
 
