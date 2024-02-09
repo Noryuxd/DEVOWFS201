@@ -118,9 +118,9 @@ We are immensely grateful for your collaboration, support, and enthusiasm throug
 
 Thank you for your unwavering commitment to excellence and for being an integral part of our team. Your contributions have not gone unnoticed, and we look forward to continued collaboration and success in the future.
 
-- [Rabii Ababsa (Project Manager)](https://www.linkedin.com/in/rabiiababsa/)
-- [Malak Alouane (Project Manager)](https://www.linkedin.com/in/malak-alouane-13678a285/)
-- [Jaouad Achraf (Task realised)](https://www.linkedin.com/in/jaouad-achraf-77b955271/)
+- [Rabii Ababsa](https://www.linkedin.com/in/rabiiababsa/)  (Project Manager)
+- [Malak Alouane ](https://www.linkedin.com/in/malak-alouane-13678a285/) (Project Manager)
+- [Jaouad Achraf](https://www.linkedin.com/in/jaouad-achraf-77b955271/) (did this task ...)
 - List dial collaborators...
 
 ## Security Vulnerabilities and Issues
