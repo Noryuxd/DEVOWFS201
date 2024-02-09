@@ -1,6 +1,6 @@
 <h1 align="center">Smiya dial projet</h1>
 
-XXXXXXX is a collaborative project developed by students of the DEVOWFS201 Group (2022-2024 Promotion) from ISTA El Hank and supervised by [Aimen Bahbouhi](https://www.linkedin.com/in/aiman-bahbouhi-02537898/) and lead by [lien ana] & [malak lien].
+XXXXXXX is a collaborative project developed by students of the DEVOWFS201 Group (2022-2024 Promotion) from ISTA El Hank and supervised by [Aimen Bahbouhi](https://www.linkedin.com/in/aiman-bahbouhi-02537898/) and lead by [Rabii Ababsa](https://www.linkedin.com/in/rabiiababsa/) & [Malak Alouane](https://www.linkedin.com/in/malak-alouane-13678a285/).
 By working together on this innovative project, our team aims to:
 
 - Enhance our technical proficiency in software development, database management, and user interface design.
@@ -118,8 +118,8 @@ We are immensely grateful for your collaboration, support, and enthusiasm throug
 
 Thank you for your unwavering commitment to excellence and for being an integral part of our team. Your contributions have not gone unnoticed, and we look forward to continued collaboration and success in the future.
 
-- [Rabii Ababsa](https://www.linkedin.com/in/rabiiababsa/)
-- Malak Alouane
+- [Rabii Ababsa (Project Manager)](https://www.linkedin.com/in/rabiiababsa/)
+- [Malak Alouane (Project Manager)](https://www.linkedin.com/in/malak-alouane-13678a285/)
 - List dial collaborators...
 
 ## Security Vulnerabilities and Issues
