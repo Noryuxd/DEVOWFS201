@@ -121,6 +121,7 @@ Thank you for your unwavering commitment to excellence and for being an integral
 - [Rabii Ababsa](https://www.linkedin.com/in/rabiiababsa/)  (Project Manager)
 - [Malak Alouane ](https://www.linkedin.com/in/malak-alouane-13678a285/) (Project Manager)
 - [Jaouad Achraf](https://www.linkedin.com/in/jaouad-achraf-77b955271/) (did this task ...)
+- [Fatima Zahra ZEROUAL](https://github.com/FZZEROUAL) (did this task...)
 - List dial collaborators...
 
 ## Security Vulnerabilities and Issues
