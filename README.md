@@ -119,6 +119,7 @@ We are immensely grateful for your collaboration, support, and enthusiasm throug
 Thank you for your unwavering commitment to excellence and for being an integral part of our team. Your contributions have not gone unnoticed, and we look forward to continued collaboration and success in the future.
 
 - [Rabii Ababsa](https://www.linkedin.com/in/rabiiababsa/)
+- Malak Alouane
 - List dial collaborators...
 
 ## Security Vulnerabilities and Issues
