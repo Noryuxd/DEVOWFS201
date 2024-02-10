@@ -81,7 +81,9 @@ Follow these steps to install the project locally:
 ## Usage
 
 <h3 align="center">
-Make sure to respect the layouts and folders structure and don't work on the main branch.
+Make sure to respect the layouts and folders structure and don't work on the main branch.<br>
+  Also use comments while working on your task so other team members understand it. <br>
+  Create and adapt migration, controller and model files to your task.
   <br>
   If you have any questions or need assistance, feel free to reach out to the Project Managers.
 </h3>
