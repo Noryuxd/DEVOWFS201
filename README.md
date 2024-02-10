@@ -1,6 +1,6 @@
-<h1 align="center">Smiya dial projet</h1>
+<h1 align="center">WorkIT</h1>
 
-XXXXXXX is a collaborative project developed by students of the DEVOWFS201 Group (2022-2024 Promotion) from ISTA El Hank and supervised by [Aimen Bahbouhi](https://www.linkedin.com/in/aiman-bahbouhi-02537898/) and lead by [Rabii Ababsa](https://www.linkedin.com/in/rabiiababsa/) & [Malak Alouane](https://www.linkedin.com/in/malak-alouane-13678a285/).
+WorkIT is a collaborative project developed by students of the DEVOWFS201 Group (2022-2024 Promotion) from ISTA El Hank and supervised by [Aimen Bahbouhi](https://www.linkedin.com/in/aiman-bahbouhi-02537898/) and lead by [Rabii Ababsa](https://www.linkedin.com/in/rabiiababsa/) & [Malak Alouane](https://www.linkedin.com/in/malak-alouane-13678a285/).
 By working together on this innovative project, our team aims to:
 
 - Enhance our technical proficiency in software development, database management, and user interface design.
@@ -25,7 +25,7 @@ By working together on this innovative project, our team aims to:
 ## About
 
 A revolutionary recruitment platform that transforms the traditional job search process by empowering recruiters to proactively search for and connect with qualified job seekers.
-Unlike conventional job boards where the onus is on job seekers to apply for positions, XXXXXXXX flips the paradigm, allowing recruiters to search for candidates based on their specific requirements and directly initiate the recruitment process.
+Unlike conventional job boards where the onus is on job seekers to apply for positions, WorkIT flips the paradigm, allowing recruiters to search for candidates based on their specific requirements and directly initiate the recruitment process.
 
 ## Stack Overview
 
@@ -123,6 +123,8 @@ Thank you for your unwavering commitment to excellence and for being an integral
 - [Jaouad Achraf](https://www.linkedin.com/in/jaouad-achraf-77b955271/) (did this task ...)
 - [Ahmed Bachir El Mahmoudi](https://www.linkedin.com/in/ahmed-bachir-el-mahmoudi-565604240/) (did this task...)
 - [Fatima Zahra ZEROUAL](https://github.com/FZZEROUAL) (did this task...)
+- [Aya El Birouti](https://github.com/AyBi229) (task...)
+- [Houssam Hadelamous](https://github.com/houssamHADELAMOUS) (task...)
 - List dial collaborators...
 
 ## Security Vulnerabilities and Issues
