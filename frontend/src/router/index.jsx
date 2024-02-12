@@ -3,11 +3,13 @@ import Home from "../pages/Home";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
 import NotFound from "../pages/NotFound";
-import Layout from "../layouts/Layout";
+import Navbar from "../layouts/Navbar";
+import Dashboard from "../pages/Dashboard";
+import Sidebar from "../layouts/Sidebar";
 
 export const router = createBrowserRouter([
   {
-    element: <Layout />,
+    element: <Navbar />,
     children: [
       {
         path: "/",
@@ -22,9 +24,19 @@ export const router = createBrowserRouter([
         element: <Register />,
       },
       {
-        path: "*",
-        element: <NotFound />,
+        path: "/",
+        element: <Sidebar />,
+        children: [
+          {
+            path: "dashboard",
+            element: <Dashboard />,
+          },
+        ],
       },
     ],
+  },
+  {
+    path: "*",
+    element: <NotFound />,
   },
 ]);

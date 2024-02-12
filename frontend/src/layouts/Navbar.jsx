@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import { Link } from "react-router-dom";
 
-const Layout = () => {
+const Navbar = () => {
   return (
     <>
       <header className="fixed top-0 left-0 w-full border-2 py-4 px-6 z-10">
@@ -16,6 +16,9 @@ const Layout = () => {
             <li>
               <Link to="/register">Register</Link>
             </li>
+            <li>
+              <Link to="/dashboard">Dashboard</Link>
+            </li>
           </ul>
         </nav>
       </header>
@@ -28,4 +31,4 @@ const Layout = () => {
   );
 };
 
-export default Layout;
+export default Navbar;
