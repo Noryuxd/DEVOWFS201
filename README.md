@@ -68,22 +68,29 @@ Explore the design mockup we got inspired from and wireframes of the platform [h
 
 Follow these steps to install the project locally:
 
-1. Clone the repository: `git clone https://github.com/Noryuxd/DEVOWFS201.git`
-2. Install laravel dependencies: `composer install`
-3. Configure the environment variables: `cp .env.example .env` and update the necessary values
-6. Generate application key: `php artisan key:generate`
-7. Run database migrations: `php artisan migrate`
-8. Start the backend development server: `php artisan serve`
-4. Install the frontend dependencies: `cd frontend && npm install`
-5. Configure the environment variables: `cp .env.example .env` and update the necessary values
-6. Run the frontend server `npm run dev`
+Clone the repository: `git clone https://github.com/Noryuxd/DEVOWFS201.git`
+  
+**Backend configuration:**
+- Enter the backend folder: `cd backend`
+- Install laravel dependencies: `composer install`
+- Configure the environment variables: `cp .env.example .env` and update the necessary values
+- Generate application key: `php artisan key:generate`
+- Run database migrations: `php artisan migrate`
+- Start the backend development server: `php artisan serve` 
+
+**Frontend Configuration:**
+- Enter the frontend folder: `cd frontend`
+- Install the react dependencies: `npm install`
+- Configure the environment variables: `cp .env.example .env` and update the necessary values
+- Run the frontend server `npm run dev`
 
 ## Usage
 
 <h3 align="center">
 Make sure to respect the layouts and folders structure and don't work on the main branch.<br>
   Also use comments while working on your task so other team members understand it. <br>
-  Create and adapt migration, controller and model files to your task.
+  Create and adapt migration, controller and model files to your task. <br>
+ Please use generic and relevant variable names and calls
   <br>
   If you have any questions or need assistance, feel free to reach out to the Project Managers.
 </h3>
