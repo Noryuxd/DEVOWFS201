@@ -248,7 +248,7 @@ const Dashboard = () => {
 
           <div>
             <NavLink
-              to="/dashboard/applications"
+              to="/dashboard/my-offers"
               className="text-blue-500 mt-2 flex items-center"
             >
               View All Applications
@@ -451,7 +451,7 @@ const Dashboard = () => {
         </ul>
         <div className="p-4 mt-8 flex justify-center">
           <NavLink
-            to="/dashboard/applications"
+            to="/dashboard/my-offers"
             className="text-blue-500 hover:text-blue-700"
           >
             View All Applications History
