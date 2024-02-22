@@ -3,37 +3,29 @@ import Home from "../pages/Home";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
 import NotFound from "../pages/NotFound";
-import Navbar from "../layouts/Navbar";
-import Dashboard from "../pages/Dashboard";
-import Sidebar from "../layouts/Sidebar";
+import DashboardRouters from "./DashboardRoutes";
+import BrowseEmployees from "../pages/BrowseEmployees";
 
 export const router = createBrowserRouter([
   {
-    element: <Navbar />,
-    children: [
-      {
-        path: "/",
-        element: <Home />,
-      },
-      {
-        path: "/login",
-        element: <Login />,
-      },
-      {
-        path: "/register",
-        element: <Register />,
-      },
-      {
-        path: "/",
-        element: <Sidebar />,
-        children: [
-          {
-            path: "dashboard",
-            element: <Dashboard />,
-          },
-        ],
-      },
-    ],
+    path: "/",
+    element: <Home />,
+  },
+  {
+    path: "/login",
+    element: <Login />,
+  },
+  {
+    path: "/register",
+    element: <Register />,
+  },
+  {
+    path: "/browse-employees",
+    element: <BrowseEmployees />,
+  },
+  {
+    path: "/dashboard/*",
+    element: <DashboardRouters />,
   },
   {
     path: "*",
