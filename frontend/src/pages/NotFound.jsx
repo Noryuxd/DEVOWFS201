@@ -4,8 +4,8 @@ import React from 'react'
 
 const NotFound = () => {
   return (
-    <main  className="w-3/4 mx-auto p-4">NotFound</main>
+    <div>NotFound</div>
   )
 }
 
-export default NotFound;
+export default NotFound

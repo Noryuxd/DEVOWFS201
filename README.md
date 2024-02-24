@@ -97,31 +97,27 @@ Make sure to respect the layouts and folders structure and don't work on the mai
 
 <br>
 
-1. Fork this repository to your own github account then clone it locally to have complete permissions over it: 
-  ```bash
-  git clone <forked-repository-url>
-  ```
-2. **Create a Branch**: Create a new branch to work on your task using the following command:
+1. **Create a Branch**: Create a new branch to work on your task using the following command:
   ```bash
   git checkout -b <task name>
   ```
 
-3. **Work on Your Task**: Make changes, add new features, or fix bugs in your branch.
+2. **Work on Your Task**: Make changes, add new features, or fix bugs in your branch.
 
-4. **Stage and Commit Changes**: Stage and commit your changes locally using the following commands:
+3. **Stage and Commit Changes**: Stage and commit your changes locally using the following commands:
   ```bash
   git add .
   git commit -m "Commit message or description for your task"
   ```
 
-5. **Push Changes to Your Branch**: Push your commits to your branch in the repository using the following command:
+4. **Push Changes to Your Branch**: Push your commits to your branch in the repository using the following command:
   ```bash
-  git push origin <branch name>
+  git push origin <task name>
   ```
 
-6. **Create a Pull Request**: Once your changes are pushed to your branch, create a pull request (PR) to merge your changes into the main branch.
+5. **Create a Pull Request**: Once your changes are pushed to your branch, create a pull request (PR) to merge your changes into the main branch.
 
-7. **Review and Merge**: Your PR will be reviewed. Make any necessary changes based on feedback, and once approved, your changes will be merged into the main branch.
+6. **Review and Merge**: Your PR will be reviewed. Make any necessary changes based on feedback, and once approved, your changes will be merged into the main branch.
 
 
 
