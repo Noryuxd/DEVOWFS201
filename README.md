@@ -97,7 +97,11 @@ Make sure to respect the layouts and folders structure and don't work on the mai
 
 <br>
 
-1. **Create a Branch**: Create a new branch to work on your task using the following command:
+1. Fork this repository to your own github account then clone it locally to have complete permissions over it: 
+  ```bash
+  git clone <forked-repository-url>
+  ```
+2. **Create a Branch**: Create a new branch to work on your task using the following command:
   ```bash
   git checkout -b <task name>
   ```
@@ -112,7 +116,7 @@ Make sure to respect the layouts and folders structure and don't work on the mai
 
 4. **Push Changes to Your Branch**: Push your commits to your branch in the repository using the following command:
   ```bash
-  git push origin <task name>
+  git push origin <branch name>
   ```
 
 5. **Create a Pull Request**: Once your changes are pushed to your branch, create a pull request (PR) to merge your changes into the main branch.
