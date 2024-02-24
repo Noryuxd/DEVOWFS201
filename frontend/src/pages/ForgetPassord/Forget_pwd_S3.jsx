@@ -104,9 +104,6 @@ export default function Forget_pwd_S3({ onchange }) {
                   value={password}
                   onChange={handlePasswordChange}
                 />
-                {errors.password && (
-                  <span className="error">{errors.password.message}</span>
-                )}
               </div>
 
               <div className="login-input">
