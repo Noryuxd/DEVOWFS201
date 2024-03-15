@@ -1,4 +1,4 @@
-import "./Login.css";
+// import "./Login.css";
 import { useForm } from 'react-hook-form';
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
@@ -43,26 +43,36 @@ const Login = () => {
   };
 
   return (
-    <div className="login">
-      <div className="login-body">
-        <div className="login-title">
-          <h2>Welcome Back</h2>
+    <div className="flex justify-center items-center" style={{ height: "calc(100vh - 130px)" }}>
+      <div className="mx-auto flex flex-col justify-center items-center w-full sm:w-11/12 md:w-1/2 lg:w-1/3">
+       
+        <div className="text-center py-5">
+          <h2 className="font-righteous md:text-xl lg:text-2xl">Welcome Back</h2>
         </div>
+
         {error ?
-          <div className="login-message">
-            <p className="login-error">{error}</p>
+          <div className="text-center font-semibold mb-2 w-full" style={{ fontSize: 11 }}>
+            <p className="text-red-600 bg-red-100 py-3">{error}</p>
 
           </div>
           :
           ''
         }
 
-        <div className="login-form">
-          <form onSubmit={handleSubmit(onSubmit)}>
+        <div className=" w-full">
+          <form className="flex flex-col gap-4" onSubmit={handleSubmit(onSubmit)}>
 
-            <div className="login-input">
-              <label htmlFor="email">Email Address</label>
+            <div className="relative flex flex-col gap-1">
+              <label
+                className="text-xs font-semibold text"
+                style={{ color: "#393770" }}
+                htmlFor="email"
+              >
+                Email Address
+              </label>
               <input
+                className="transition duration-700 px-3 py-2 border border-gray-300 rounded focus:border-indigo-600 focus:outline-none"
+                style={{ fontSize: 12 }}
                 type="text"
                 id="email"
                 placeholder="Enter your email address"
@@ -74,61 +84,84 @@ const Login = () => {
                   },
                 })}
               />
-              {errors.email && <span>{errors.email.message}</span>}
+              {errors.email && <span className="absolute -bottom-4 text-red-500" style={{ fontSize: 10 }}>{errors.email.message}</span>}
             </div>
 
-            <div className="login-input">
-              <label htmlFor="password">Password</label>
-              <div className="login-pswd">
+            <div className="relative flex flex-col gap-1">
+              <label
+                className="text-xs font-semibold text"
+                style={{ color: "#393770" }}
+                htmlFor="password"
+              >
+                Password
+              </label>
+              <div className="relative h-10">
                 <input
+                  className="absolute w-full h-full transition duration-700 px-3 py-2 border border-gray-300 rounded focus:border-indigo-600 focus:outline-none appearance-none"
+                  style={{ fontSize: 12 }}
                   type={showP ? "text" : "password"}
                   id="password"
                   name="password"
                   placeholder="Enter password"
                   {...register("password", { required: "Password is required" })}
                 />
-                <div className="login-pswd-icons">
+                <div className="absolute h-full right-1">
                   {showP ? (
                     <button
+                      className="h-full px-4"
                       type="button"
                       onClick={(e) => {
                         setshowP(false);
                         e.preventDefault();
                       }}
                     >
-                      <i className="fa-solid fa-eye-slash"></i>
+                      <i className="fa-solid fa-eye-slash text-xs text-indigo-600"></i>
                     </button>
                   ) : (
                     <button
+                      className="h-full px-4"
                       type="button"
                       onClick={(e) => {
                         setshowP(true);
                         e.preventDefault();
                       }}
                     >
-                      <i className="fa-solid fa-eye"></i>
+                      <i className="fa-solid fa-eye text-xs text-indigo-600"></i>
                     </button>
                   )}
                 </div>
               </div>
-              {errors.password && <span className="error">{errors.password.message}</span>}
+              {errors.password && <span className="absolute -bottom-4 text-red-500" style={{ fontSize: 10 }}>{errors.password.message}</span>}
             </div>
 
-            <div className="login-btn">
+            <div className="mt-2">
               {isSubmiting ?
-                <button type="button" onClick={(e) => e.preventDefault()}>Loading...</button>
+                <button
+                  className="w-full border-0 py-3 text-center bg-blue-600 text-white transition duration-700 rounded font-bold hover:opacity-75 active:opacity-75"
+                  style={{ fontSize: 12, backgroundColor: '#453FDE' }}
+                  type="button"
+                  onClick={(e) => e.preventDefault()}
+                >
+                  Loading...
+                </button>
                 :
-                <button type="submit">Login</button>
+                <button
+                  className="w-full border-0 py-3 text-center bg-blue-600 text-white transition duration-700 rounded font-bold hover:opacity-75 active:opacity-75"
+                  style={{ fontSize: 12, backgroundColor: '#453FDE' }}
+                  type="submit"
+                >
+                  Login
+                </button>
               }
 
             </div>
 
           </form>
-          <div className="links">
-            <h4>
-              Don't have an account? <Link to="/register">Sign Up</Link>
+          <div className="flex items-center justify-between">
+            <h4 className="capitalize my-2 text-gray-500" style={{ fontSize: 11 }}>
+              Don't have an account? <Link to="/register" className="ml-2 text-sm text-indigo-600 font-bold">Sign Up</Link>
             </h4>
-            <span>
+            <span className="ml-2 text-xs text-indigo-600 font-semibold" style={{ fontSize: 10 }}>
               <Link to="/forget-pwd">Forget password?</Link>
             </span>
           </div>

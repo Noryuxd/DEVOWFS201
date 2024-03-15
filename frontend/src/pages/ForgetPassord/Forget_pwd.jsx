@@ -13,7 +13,6 @@ export default function Forget_pwd() {
   };
 
 
-  // console.log('code from : ', codeVerification)
 
   return (
     <div>

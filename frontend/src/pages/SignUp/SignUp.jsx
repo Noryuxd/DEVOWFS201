@@ -1,6 +1,4 @@
-
 import { useState } from "react";
-import "./SignUp.css";
 import SignUp_stepOne from "./SignUp_stepOne";
 import SignUp_stepTwo from "./SignUp_stepTwo";
 
